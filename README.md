@@ -6,7 +6,7 @@ chrisponch.github.io
 This is my first try at github!
 
 My Github user page is at: 
-https://chrisponch.com/dantnguyen/
+https://github.com/Chrisponch/
 
 My Github Pages repo can be found at:  
 https://github.com/Chrisponch/chrisponch.github.io/
